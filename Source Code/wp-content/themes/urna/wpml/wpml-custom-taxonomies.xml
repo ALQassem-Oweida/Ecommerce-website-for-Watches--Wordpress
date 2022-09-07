@@ -1,0 +1,5 @@
+<wpml-config>
+  <taxonomies>
+    <taxonomy translate="1" display-as-translated="1">tbay_customtab_category</taxonomy>
+  </taxonomies>
+</wpml-config>

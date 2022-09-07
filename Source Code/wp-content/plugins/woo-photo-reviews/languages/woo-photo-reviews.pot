@@ -1,0 +1,978 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo Reviews for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-16 01:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-comment-field-html.php:22
+#, php-format
+msgid " (maxsize: %skB, max files: 2)"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:637
+msgid " Grid(masonry)."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1116
+msgid ""
+" must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:544
+msgid " Newest first"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:645
+msgid " Normal."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:555
+msgid " Oldest first"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:378
+msgid " Upload max filesize."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:267
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:289
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-filters-html.php:34
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-filters-html.php:66
+#, php-format
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:192
+#, php-format
+msgid "'%s' is not an allowed file type."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:396
+msgid ""
+"?page=wc-settings&tab=email#woocommerce_email_base_color\">WooCommerce "
+"Emails Settings</a>."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:395
+msgid "?page=wc-settings&tab=products\">WooCommerce Settings</a>"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1692
+msgid "Add Image"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:710
+msgid "Ajax pagination"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:270
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:276
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-filters-html.php:38
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-filters-html.php:53
+msgid "All stars"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:463
+msgid "Allow customers to attach photos in their review."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1108
+msgid "Allow Free Shipping"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allow you to automatically send email to your customers to request reviews. "
+"Customers can include photos in their reviews."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1302
+msgid "Apply To All Qualifying Items In Cart"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:162
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-overall-rating-html.php:34
+#, php-format
+msgid "Based on %s review"
+msgid_plural "Based on %s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1480
+msgid "Button \"Review now\" background color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1471
+msgid "Button \"Review now\" text color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1160
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1114
+msgid "Check this box if the coupon grants free shipping. A "
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1170
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are items in the cart that are not on sale."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-comment-field-html.php:16
+msgid "Choose pictures"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1053
+msgid "Choose to send an existing coupon or generate unique coupons."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:407
+msgid "Coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1098
+msgid "Coupon Amount"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1324
+msgid "Coupon Code Prefix"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:872
+msgid "Coupon for reviews"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1123
+msgid ""
+"Coupon will expire after x(days) since it's generated and sent. Set 0 or "
+"blank to make it never expire."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:740
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:160
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-overall-rating-html.php:19
+msgid "Customer reviews"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1127
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1415
+msgid "Days"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1081
+msgid "Discount Type"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:665
+msgid "Display product summary on masonry popup"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1007
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1445
+msgid "Email content"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:997
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1435
+msgid "Email heading"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:987
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1424
+msgid "Email subject"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:416
+msgid "Enable"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:441
+msgid "Enable Multilingual"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1382
+msgid "Enable this if you mean to offer coupon for reviews in review reminder."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1255
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1364
+msgid "Exclude categories"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:976
+msgid "Exclude categories to give coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1375
+msgid "Exclude non-coupon given products"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1201
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1353
+msgid "Exclude products"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:955
+msgid "Exclude products to give coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1164
+msgid "Exclude Sale Items"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:335
+msgid "File upload:"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:822
+msgid "Filter area backgroud color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:811
+msgid "Filter area border color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:856
+msgid "Filter button background color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:845
+msgid "Filter button color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:834
+msgid "Filter buttons border color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:795
+msgid "Filters"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1088
+msgid "Fixed cart discount"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1090
+msgid "Fixed product discount"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1116
+msgid "free shipping method"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:627
+msgid "Front-end style"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:573
+msgid "GDPR checkbox"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:586
+msgid "GDPR message"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:401
+msgid "General"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1048
+msgid "Generate unique coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:683
+msgid "Grid background color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:692
+msgid "Grid item background color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:610
+msgid "Hide name"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1411
+msgid "Hours"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1289
+msgid "How many times this coupon can be used before it is void."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1319
+msgid "How many times this coupon can be used by an individual user."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-photo-reviews/"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-comment-field-html.php:36
+msgid "I agree with the term and condition."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1347
+msgid ""
+"If checked, an email will be automatically sent when a customer completes an "
+"order to request for a review."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1038
+msgid "If enabled, coupon will be used for received emails only."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:456
+msgid "Include photos"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1175
+msgid "Include products"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:470
+msgid "Include videos"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1229
+msgid "Included categories"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1154
+msgid "Individual Use Only"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:492
+#, php-format
+msgid "KB (Max %s KB)."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1294
+msgid "Limit Usage To X Items"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:377
+msgid "Max file upload"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:357
+msgid "Max file uploads:"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:960
+#, php-format
+msgid "Maximum number of files allowed is: %s."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:501
+msgid "Maximum photo quantity"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:484
+msgid "Maximum photo size"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1144
+msgid "Maximum Spend"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1132
+msgid "Minimum Spend"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1407
+msgid "Minutes"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:428
+msgid "Mobile"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:866
+msgid "never expires"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1149
+msgid "No maximum"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1138
+msgid "No minimum"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:674
+msgid "Number of columns"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:971
+msgid "Only reviews on products in these categories can receive coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:950
+msgid ""
+"Only reviews on selected products can receive coupons. Leave blank to apply "
+"for all products"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:930
+msgid "Only send coupon for reviews from purchased customers."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:905
+msgid "Only send coupons for reviews including photos"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:912
+msgid "Only send coupons for reviews with same or higher than this rating"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:892
+msgid "Only send coupons if author's email is registered an account"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:768
+msgid "Overall rating"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1086
+msgid "Percentage discount"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1627
+msgid "Photo"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:898
+msgid "Photo is required"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:939
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:955
+msgid "Photo is required."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:516
+msgid "Photo required"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1749
+msgid "Photo Reviews"
+msgstr ""
+
+#. Name of the plugin
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1749
+msgid "Photo Reviews for WooCommerce"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:394
+msgid "Photo Reviews for WooCommerce Settings"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1703
+msgid "Photos"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:184
+msgid "Please agree with our term and policy."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:934
+msgid "Please agree with the GDPR policy!"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1234
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1260
+msgid "Please enter category title"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:181
+msgid "Please enter your comment"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:183
+msgid "Please enter your email"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:182
+msgid "Please enter your name"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1063
+msgid "Please Fill In Your Coupon Code"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1180
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1207
+msgid "Please Fill In Your Product Title"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/woo-photo-reviews.php:58
+msgid ""
+"Please install and activate WooCommerce to use Photo Reviews for WooCommerce."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1529
+msgid "Please select a coupon then save settings!"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:180
+msgid "Please select a rating"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:190
+msgid "Please upload at least one image for your review!"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1825
+msgid "Please wait..."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:377
+msgid "plus"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:376
+msgid "Post maxsize"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:366
+msgid "Post maxsize:"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:196
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:205
+msgid "Preview emails"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1249
+msgid ""
+"Product categories that the coupon will be applied to, or that need to be in "
+"the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1275
+msgid ""
+"Product categories that the coupon will not be applied to, or that cannot be "
+"in the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1370
+msgid "Products in these categories will not appear in review reminder email."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1196
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart "
+"in order for the \"Fixed cart discount\" to be applied"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1223
+msgid ""
+"Products that the coupon will not be applied to, or that cannot be in the "
+"cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1704
+msgid "Rating"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:405
+msgid "Rating Counts & Filters"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:599
+msgid "Rating stars color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:756
+msgid "Ratings count"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:781
+msgid "Ratings count bar color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:887
+msgid "Registered-account email is required"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-template-masonry-html.php:141
+msgid "Reply from "
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:965
+msgid "Required categories"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:945
+msgid "Required products"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:911
+msgid "Required rating"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:936
+msgid "Review form description"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:293
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:538
+msgid "Review Now"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:409
+msgid "Review Reminder"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1339
+msgid "Review reminder"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:701
+msgid "Review text color"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:403
+msgid "Reviews"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:728
+msgid "Reviews anchor link"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:719
+msgid "Reviews container"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:526
+msgid "Reviews must include photo to be uploaded."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:982
+msgid "Reviews on products in these categories will not receive coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:960
+msgid "Reviews on these products will not receive coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-template-basic-html.php:47
+msgid "Rotate left 90 degrees"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-template-basic-html.php:48
+msgid "Rotate right 90 degrees"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1494
+msgid "Save"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1389
+msgid ""
+"Schedule a time to send request email after an order is marked as completed."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1388
+msgid "Schedule time"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1403
+msgid "Seconds"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1050
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1058
+msgid "Select an existing coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1044
+msgid "Select coupon kind"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:881
+msgid "Send coupon to customers when their reviews are approved"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1031
+msgid "Set email restriction"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/woo-photo-reviews.php:48
+msgid "Settings"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1076
+msgid "Settings For Unique Coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:376
+msgid "should be greater than"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:654
+msgid "Show review date"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:564
+msgid "Show review tab first"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:531
+msgid "Sort reviews by"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:918
+msgid "Stars"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1756
+msgid "Status"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1756
+msgid "System Status"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:330
+msgid "System status"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:907
+msgid ""
+"Thank you for reviewing our product. A coupon code has been sent to your "
+"email address. Please check your mailbox for more details."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:869
+msgid "Thank You For Your Review!"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1446
+msgid "The content of email sending to customers to ask for reviews."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1008
+msgid ""
+"The content of email sending to customers to inform them the coupon code "
+"they get for leaving reviews."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1440
+msgid "The heading of emails sending to customers to request for reviews."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1002
+msgid ""
+"The heading of emails sending to customers which include discount coupon "
+"code."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1304
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discount."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:510
+msgid "The maximum quantity of photos can be uploaded with a review."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:494
+msgid "The maximum size of a single picture can be uploaded."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1150
+msgid "The maximum spend to use the coupon."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1139
+msgid "The minimum spend to use the coupon."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:193
+#, php-format
+msgid "The size of '%s' is greater than %s kB."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1430
+msgid "The subject of emails sending to customers to request for reviews."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:992
+msgid ""
+"The subject of emails sending to customers which include discount coupon "
+"code."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:950
+#, php-format
+msgid "There was an error uploading files: %s"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1359
+msgid "These products will not appear in review reminder email."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:733
+msgid ""
+"This is the anchor link to your reviews form. Enter without a hash(#). This "
+"will be linked after product links in reviews reminder or when customers "
+"click on a filter on frontend."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1122
+msgid "Time To Live"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1317
+msgid "Unlimited Usage"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:445
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:475
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:508
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:568
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:614
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:623
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:669
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:678
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:687
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:696
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:705
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:714
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:723
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:891
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:949
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:959
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:970
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:981
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1328
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1358
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1369
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1381
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1475
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1484
+msgid "Upgrade This Feature"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:348
+msgid "Upload max filesize:"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1281
+msgid "Usage Limit Per Coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1309
+msgid "Usage Limit Per User"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1104
+msgid "Value of the coupon."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:264
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-filters-html.php:27
+msgid "Verified"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:619
+msgid "Verified owner badge"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:923
+msgid "Verified owner is required"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/frontend.php:249
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-filters-html.php:23
+msgid "With images"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/frontend/single-page.php:191
+#, php-format
+msgid "You can only upload maximum of %s file"
+msgid_plural "You can only upload maximum of %s files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1520
+msgid ""
+"You have to enable the use of coupon on WooCommerce settings page to use "
+"Coupon feature!"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1513
+msgid ""
+"You have to enable WooCommerce product reviews on WooCommerce settings page "
+"to use Photo Reviews for WooCommerce and its features!"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/templates/viwcpr-template-masonry-html.php:95
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1619
+msgid "Your settings have been saved!"
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1024
+msgid "{coupon_code} - Discount coupon code will be sent to customer."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1023
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1461
+msgid "{customer_name} - Customer's name."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1465
+msgid "{date_complete} - Order's completed date."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1464
+msgid "{date_create} - Order's created date."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1025
+msgid "{date_expires} - Expiry date of the coupon."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1462
+msgid "{order_id} - Order id."
+msgstr ""
+
+#: D:/git/free-version/woo-photo-reviews/woo-photo-reviews/admin/admin.php:1463
+msgid "{site_title} - Your site title."
+msgstr ""

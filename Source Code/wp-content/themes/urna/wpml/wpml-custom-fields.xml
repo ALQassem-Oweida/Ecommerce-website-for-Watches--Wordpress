@@ -1,0 +1,17 @@
+<wpml-config>
+  <custom-fields>
+    <custom-field action="ignore">_subtitle</custom-field>
+    <custom-field action="ignore">tbay_page_show_breadcrumb</custom-field>
+    <custom-field action="ignore">tbay_page_breadcrumbs_layout</custom-field>
+    <custom-field action="ignore">tbay_page_header_type</custom-field>
+    <custom-field action="ignore">tbay_page_mini_cart_position</custom-field>
+    <custom-field action="ignore">tbay_page_footer_type</custom-field>
+    <custom-field action="ignore">tbay_page_fullwidth</custom-field>
+    <custom-field action="ignore">thembay_page_show_breadcrumb</custom-field>
+    <custom-field action="ignore">thembay_page_header_type</custom-field>
+    <custom-field action="ignore">tbay_page_breadcrumb_color</custom-field>
+    <custom-field action="ignore">tbay_page_breadcrumb_image_id</custom-field>
+    <custom-field action="ignore">tbay_page_breadcrumb_image</custom-field>
+    <custom-field action="ignore">tbay_page_extra_class</custom-field>
+  </custom-fields>
+</wpml-config>

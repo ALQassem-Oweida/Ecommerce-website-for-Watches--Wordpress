@@ -1,0 +1,42 @@
+2022-09-06T20:53:18+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php:225
+Stack trace:
+#0 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1398): WC_Cart_Totals->__construct()
+#4 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1357): WC_Cart->calculate_totals()
+#5 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\themes\urna\inc\vendors\woocommerce\wc-functions.php(4236): WC_Cart->set_quantity()
+#6 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(307): urna_quantity_mini_cart()
+#7 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#8 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\plugin.php(476): WP_Hook->do_action()
+#9 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action()
+#10 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(307): WC_AJAX::do_wc_ajax()
+#11 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#12 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\plugin.php(476): WP_Hook->do_action()
+#13 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\template-loader.php(13): do_action()
+#14 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-blog-header.php(19): require_once('...')
+#15 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\index.php(17): require('...')
+#16 {main}
+  thrown in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php on line 225
+
+2022-09-06T20:53:18+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php:225
+Stack trace:
+#0 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1398): WC_Cart_Totals->__construct()
+#4 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1357): WC_Cart->calculate_totals()
+#5 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\themes\urna\inc\vendors\woocommerce\wc-functions.php(4236): WC_Cart->set_quantity()
+#6 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(307): urna_quantity_mini_cart()
+#7 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#8 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\plugin.php(476): WP_Hook->do_action()
+#9 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action()
+#10 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(307): WC_AJAX::do_wc_ajax()
+#11 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#12 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\plugin.php(476): WP_Hook->do_action()
+#13 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\template-loader.php(13): do_action()
+#14 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-blog-header.php(19): require_once('...')
+#15 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\index.php(17): require('...')
+#16 {main}
+  thrown in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php on line 225
+

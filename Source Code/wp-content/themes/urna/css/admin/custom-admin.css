@@ -1,0 +1,245 @@
+.redux-container{
+	overflow: visible !important;
+}
+.redux-container-image_select ul.redux-image-select li {
+	width: 24%;
+	text-align: center;
+	margin-bottom: 15px !important;
+	float: left;
+}
+.redux-container #redux-header .display_header {
+    margin: 0 20px 0 70px;
+}
+.redux-container #redux-header .display_header:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 18px;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	z-index: 1;
+	background-image: url(../../inc/assets/images/admin/theme-admin-icon.jpg);
+	background-repeat: no-repeat;
+	background-size: 50px 50px;
+	width: 50px;
+	height: 50px;
+}
+
+.urna-admin-icon:before {
+    content: "";
+    display: block;
+    z-index: 1;
+    background-image: url(../../inc/assets/images/admin/vc-icon-urna.jpg);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin-top: 1px;
+}
+
+/* fix choose country add new vendor */
+.multiselect.multiselect--active {
+	min-height: 140px; 
+}
+.multiselect input[type=text] {
+	border: 0; 
+}
+.dokan-vendor-edit .tab-contents .content-body .dokan-form-group .column .multiselect__tags {
+	height: 45px;
+}
+/* end */
+
+.redux-container #redux-header .display_header h2 {
+	font-size: 30px;
+	line-height: 1;
+	padding-right: 15px;
+}
+.redux-container #redux-header .display_header .redux-dev-mode-notice-container {
+	margin-top: -4px;
+	top: 50%;
+	left: 210px;
+}
+.redux-container-image_select .redux-image-select img, 
+.redux-container-image_select .redux-image-select-selected img, 
+.redux-container-image_select .redux-image-select .tiles, 
+.redux-container-image_select .redux-image-select-selected .tiles {
+    border-width: 1px;
+    border-style: solid;
+}
+.redux-container-image_select .redux-image-select-selected {
+	background-color: transparent; 
+}
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img, 
+.wp-customizer .redux-container-image_select .redux-image-select-selected img {
+	border-color: #0085ba;
+}
+.redux-container-image_select ul.redux-image-select li:nth-child(4n + 5) {
+	clear: both;
+}
+.vc_element-icon.vc-icon-urna {
+	background-image: url(../../inc/assets/images/admin/vc-icon-urna.jpg);
+}
+.redux-sidebar .redux-group-menu li.divide {
+	display: none;
+}
+.image-large .redux-container-image_select ul.redux-image-select {
+	margin-left: -2% !important;
+}
+.image-large .redux-container-image_select ul.redux-image-select li {
+    width: 27%;
+    margin: 0 !important;
+    padding: 0 3%;
+}
+
+.image-two .redux-container-image_select ul.redux-image-select li {
+    width: 45%;
+    margin-left: 2% !important; 
+    margin-right: 2% !important;
+}
+
+.image-large .redux-container-image_select ul.redux-image-select li:nth-child(2n) {
+	margin-left: 0 !important;
+}
+
+.image-large .redux-container-image_select ul.redux-image-select li span {
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    clear: both;
+    float: left;
+    width: 100%;
+}
+.wp-customizer .redux-container-image_select ul.redux-image-select li {
+	width: 44%;
+	margin: 0 2% 30px !important;
+}
+
+.upload_image_action ,.screenshot{
+	clear: both;
+}
+.woocommerce table.form-table .select2-container.redux-select-item {
+	min-width: initial !important;
+}
+
+/*Hidden skins not active*/
+.active_skins.image-large .redux-container-image_select ul.redux-image-select li {
+	width: 100%;
+	text-align: left;
+	padding: 0 15px;
+}
+.active_skins.image-large .redux-container-image_select ul.redux-image-select li span {
+	text-align: center;
+}
+
+.active_skins ul.redux-image-select .redux-image-select .redux-image-select:not(.redux-image-select-selected){
+	display: none;
+}
+.redux-field-container[data-id="active_theme"] ul.redux-image-select li{
+	width: 100%;
+	margin: 0 !important;
+} 
+.redux-field-container[data-id="active_theme"] ul.redux-image-select .redux-image-select .redux-image-select:not(.redux-image-select-selected){
+	display: none;
+}
+/*End skins not active*/
+/*big divide*/
+.redux-main .divide.big-divide .inner {
+	border-top-width: 3px;
+}
+.redux-main .divide.big-divide .inner span {
+	border-width: 3px;
+    margin-top: -7px;
+} 
+.remove-upload-slides .redux_slides_add_remove,
+.remove-upload-slides .upload_button_div,
+.remove-upload-slides .screenshot {
+	display: none !important;
+}
+.screenshot img {
+	max-width: 100%;
+}
+
+
+/*Admin woo*/
+#woocommerce-product-data ul.wc-tabs li.urna-options-tab_options a:before { 
+	font-family: WooCommerce; 
+	content: '\e007'; 
+}
+#woocommerce-product-size-guide-images .inside img{
+	max-width: 100%;
+	height: auto;
+	width: auto;
+	vertical-align: top;
+	background-image: linear-gradient(45deg,#c4c4c4 25%,transparent 25%,transparent 75%,#c4c4c4 75%,#c4c4c4),linear-gradient(45deg,#c4c4c4 25%,transparent 25%,transparent 75%,#c4c4c4 75%,#c4c4c4);
+	background-position: 0 0,10px 10px;
+	background-size: 20px 20px;
+}
+
+.ui-autocomplete {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: absolute;
+    z-index: 10000;
+    border: 1px solid #5b9dd9;
+    box-shadow: 0 1px 2px rgba(30,140,190,.8);
+    background-color: #fff;
+}
+
+.ui-autocomplete a{
+    color: #0073aa;
+    transition-property: border,background,color;
+    transition-duration: .05s;
+    transition-timing-function: ease-in-out;
+}
+
+.ui-menu .vc_autocomplete-item.ui-state-focus, .ui-menu .vc_autocomplete-item.ui-state-active {
+	margin: 0;
+	border: 0;
+    box-shadow: 0 1px 2px rgba(30,140,190,.8);
+    background-color: #fff;
+}
+
+.redux-sidebar .redux-group-tab-link-a i.zmdi { 
+	font-size: 20px;
+}
+
+.redux-container .ui-button .ui-button-text {
+    padding: 0;
+}
+div.nsl-container .nsl-button-default span.nsl-button-label-container {
+	margin: 0 24px 0 12px;
+	padding: 10px 0;  
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: .25px;
+	overflow: hidden;
+	text-align: center;
+	text-overflow: clip;
+	white-space: nowrap;
+	flex: 1 1 auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.redux-container .ui-checkboxradio-radio-label .ui-icon-background{
+	display: none;
+}
+.redux-container a.ui-button:active, 
+.redux-container .ui-button:active, 
+.redux-container .ui-button.ui-state-active:hover {
+	color: #fff;
+}
+.redux-container .ui-button-text-only .ui-button-text {
+	padding-top: 0;
+    padding-bottom: 0;
+}
+
+#input_store_layout .ui-button, #input_store_header_template .ui-button {
+	height: auto;
+	margin-bottom: 5px !important;
+}

@@ -1,0 +1,37 @@
+/*
+  rotate icon font: rotate
+  Creation date: 13/10/2018 06:10
+  */
+
+@font-face {
+    font-family: "wcpr_rotate";
+    src: url("../fonts/rotate.eot");
+    src: url("../fonts/rotate.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/rotate.woff") format("woff"),
+    url("../fonts/rotate.ttf") format("truetype"),
+    url("../fonts/rotate.svg#rotate") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "rotate";
+        src: url("../fonts/rotate.svg#rotate") format("svg");
+    }
+}
+
+[class^="wcpr_rotate-"]:before, [class*=" wcpr_rotate-"]:before,
+[class^="wcpr_rotate-"]:after, [class*=" wcpr_rotate-"]:after {
+    font-family: wcpr_rotate;
+    font-style: normal;
+    margin: 0;
+}
+
+.wcpr_rotate-rotate-left-circular-arrow-interface-symbol:before {
+    content: "\f100";
+}
+
+.wcpr_rotate-rotating-arrow-to-the-right:before {
+    content: "\f101";
+}

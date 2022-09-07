@@ -1,0 +1,14 @@
+#wcpr-comment-photos .inside {
+    display: inline-block;
+}
+
+.wcpr-review-image-container {
+    float: left;
+    text-align: center;
+}
+
+.wcpr-review-image-container .review-images {
+    width: 75px;
+    display: block;
+    margin: 0 5px;
+}

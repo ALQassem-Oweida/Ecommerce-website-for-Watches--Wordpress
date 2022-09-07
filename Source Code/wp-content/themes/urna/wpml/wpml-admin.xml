@@ -1,0 +1,202 @@
+<wpml-config>
+  <admin-texts>
+    <key name="urna_tbay_theme_options">
+      <key name="last_tab"/>
+      <key name="media-preloader">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="select-header-page"/>
+      <key name="header_type"/>
+      <key name="media-logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="logo_img_width"/>
+      <key name="logo_padding">
+        <key name="units"/>
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+      </key>
+      <key name="media_flash_sale">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="search_type"/>
+      <key name="search_in_options"/>
+      <key name="search_placeholder"/>
+      <key name="search_count_categories"/>
+      <key name="search_text_categories"/>
+      <key name="button_search"/>
+      <key name="button_search_text"/>
+      <key name="menu_after_login"/>
+      <key name="woo_wishlist_text"/>
+      <key name="footer_type"/>
+      <key name="copyright_text"/>
+      <key name="mobile-logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="logo_img_width_mobile"/>
+      <key name="logo_mobile_padding">
+        <key name="units"/>
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+      </key>
+      <key name="mobile_footer_menu_order_page"/>
+      <key name="mobile_search_placeholder"/>
+      <key name="menu_mobile_title"/>
+      <key name="menu_mobile_third_select"/>
+      <key name="menu_social_slides">
+        <key name="0">
+          <key name="title"/>
+          <key name="url"/>
+          <key name="sort"/>
+          <key name="attachment_id"/>
+          <key name="image"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumb"/>
+        </key>
+      </key>
+      <key name="menu_mobile_one_select"/>
+      <key name="menu_mobile_tab_one"/>
+      <key name="menu_mobile_tab_one_icon"/>
+      <key name="enable_menu_second"/>
+      <key name="menu_mobile_tab_scond"/>
+      <key name="menu_mobile_second_select"/>
+      <key name="menu_mobile_tab_second_icon"/>
+      <key name="mobile_product_number"/>
+      <key name="enable_custom_label_sale"/>
+      <key name="line_height_label_sale"/>
+      <key name="min_width_label_sale"/>
+      <key name="mobile_form_cart_style"/>
+      <key name="boby_bg">
+        <key name="background-color"/>
+        <key name="background-repeat"/>
+        <key name="background-size"/>
+        <key name="background-attachment"/>
+        <key name="background-position"/>
+        <key name="background-image"/>
+        <key name="media">
+          <key name="id"/>
+          <key name="height"/>
+          <key name="width"/>
+          <key name="thumbnail"/>
+        </key>
+      </key>
+      <key name="main_color"/>
+      <key name="main_color_second"/>
+      <key name="main_color_third"/>
+      <key name="show_typography"/>
+      <key name="font_source"/>
+      <key name="font_google_code"/>
+      <key name="main_font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="subsets"/>
+      </key>
+      <key name="main_google_font_face"/>
+      <key name="main_custom_font_face"/>
+      <key name="secondary_font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="subsets"/>
+      </key>
+      <key name="secondary_google_font_face"/>
+      <key name="secondary_custom_font_face"/>
+      <key name="header_bg"/>
+      <key name="header_text_color"/>
+      <key name="header_link_color"/>
+      <key name="header_link_color_active"/>
+      <key name="topbar_bg"/>
+      <key name="topbar_text_color"/>
+      <key name="topbar_link_color"/>
+      <key name="topbar_link_color_hover"/>
+      <key name="main_menu_bg"/>
+      <key name="main_menu_link_color"/>
+      <key name="main_menu_link_color_active"/>
+      <key name="footer_bg"/>
+      <key name="footer_heading_color"/>
+      <key name="footer_text_color"/>
+      <key name="footer_link_color"/>
+      <key name="footer_link_color_hover"/>
+      <key name="copyright_bg"/>
+      <key name="copyright_text_color"/>
+      <key name="copyright_link_color"/>
+      <key name="copyright_link_color_hover"/>
+      <key name="sale_tags"/>
+      <key name="sale_tag_custom"/>
+      <key name="enable_label_featured"/>
+      <key name="custom_label_featured"/>
+      <key name="variation_swatch"/>
+      <key name="woo_mini_cart_text"/>
+      <key name="product_breadcrumb_layout"/>
+      <key name="woo_breadcrumb_color"/>
+      <key name="woo_breadcrumb_image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="product_archive_layout"/>
+      <key name="product_archive_sidebar"/>
+      <key name="product_display_mode"/>
+      <key name="number_products_per_page"/>
+      <key name="product_columns"/>
+      <key name="product_pagination_style"/>
+      <key name="product_single_layout"/>
+      <key name="product_single_sidebar_position"/>
+      <key name="product_single_sidebar"/>
+      <key name="product_single_sidebar_normal"/>
+      <key name="redirect_buy_now"/>
+      <key name="style_single_tabs_style"/>
+      <key name="custom_tab_type"/>
+      <key name="size_guide_title"/>
+      <key name="size_guide_icon"/>
+      <key name="product_nav_display_mode"/>
+      <key name="html_before_add_to_cart_btn"/>
+      <key name="html_after_add_to_cart_btn"/>
+      <key name="title_recentview"/>
+      <key name="recentview_icon"/>
+      <key name="max_products_recentview"/>
+      <key name="empty_text_recentview"/>
+      <key name="recentview_viewall_text"/>
+      <key name="recentview_select_pages"/>
+      <key name="blog_breadcrumb_layout"/>
+      <key name="blog_breadcrumb_color"/>
+      <key name="blog_breadcrumb_image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="blog_archive_layout"/>
+      <key name="blog_archive_sidebar"/>
+      <key name="blog_columns"/>
+      <key name="text_readmore"/>
+      <key name="blog_single_layout"/>
+      <key name="blog_single_sidebar"/>
+    </key>
+  </admin-texts>
+</wpml-config>

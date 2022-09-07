@@ -1,0 +1,27 @@
+2022-09-07T08:38:25+00:00 CRITICAL Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\public\controllers\class_rm_login_controller.php:164
+Stack trace:
+#0 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\public\controllers\class_rm_login_controller.php(164): json_decode()
+#1 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\includes\class_rm_main_controller.php(136): RM_Login_Controller->form()
+#2 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\public\class_rm_public.php(297): RM_Main_Controller->run()
+#3 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\shortcodes.php(356): RM_Public->rm_login()
+#4 [internal function]: do_shortcode_tag()
+#5 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\shortcodes.php(228): preg_replace_callback()
+#6 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(307): do_shortcode()
+#7 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\plugin.php(191): WP_Hook->apply_filters()
+#8 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\wordpress-seo\src\builders\indexable-link-builder.php(103): apply_filters()
+#9 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\wordpress-seo\src\integrations\watchers\indexable-post-watcher.php(197): Yoast\WP\SEO\Builders\Indexable_Link_Builder->build()
+#10 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(309): Yoast\WP\SEO\Integrations\Watchers\Indexable_Post_Watcher->build_indexable()
+#11 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#12 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\plugin.php(476): WP_Hook->do_action()
+#13 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\post.php(4684): do_action()
+#14 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\includes\class_rm_utilities.php(468): wp_insert_post()
+#15 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\includes\class_rm_activator.php(101): RM_Utilities::create_login_page()
+#16 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\includes\class_rm_activator.php(36): RM_Activator::setup_login_page()
+#17 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(307): RM_Activator::activate()
+#18 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#19 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-includes\plugin.php(476): WP_Hook->do_action()
+#20 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-admin\includes\plugin.php(691): do_action()
+#21 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-admin\plugins.php(58): activate_plugin()
+#22 {main}
+  thrown in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\project4\wp-content\plugins\custom-registration-form-builder-with-submission-manager\public\controllers\class_rm_login_controller.php on line 164
+

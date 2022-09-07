@@ -1,0 +1,593 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="ignore">_subtitle</custom-field>
+        <custom-field action="ignore">tbay_page_show_breadcrumb</custom-field>
+        <custom-field action="ignore">tbay_page_breadcrumbs_layout</custom-field>
+        <custom-field action="ignore">tbay_page_header_type</custom-field>
+        <custom-field action="ignore">tbay_page_mini_cart_position</custom-field>
+        <custom-field action="ignore">tbay_page_footer_type</custom-field>
+        <custom-field action="ignore">tbay_page_fullwidth</custom-field>
+        <custom-field action="ignore">thembay_page_show_breadcrumb</custom-field>
+        <custom-field action="ignore">thembay_page_header_type</custom-field>
+        <custom-field action="ignore">tbay_page_breadcrumb_color</custom-field>
+        <custom-field action="ignore">tbay_page_breadcrumb_image_id</custom-field>
+        <custom-field action="ignore">tbay_page_breadcrumb_image</custom-field>
+        <custom-field action="ignore">tbay_page_extra_class</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1" display-as-translated="1">tbay_header</custom-type>
+        <custom-type translate="1" display-as-translated="1">tbay_footer</custom-type>
+        <custom-type translate="1" display-as-translated="1">tbay_brand</custom-type>
+        <custom-type translate="1" display-as-translated="1">tbay_testimonial</custom-type>
+        <custom-type translate="1" display-as-translated="1">tbay_megamenu</custom-type>
+        <custom-type translate="1" display-as-translated="1">tbay_customtab</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1" display-as-translated="1">tbay_customtab_category</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="urna_tbay_theme_options">
+            <key name="last_tab"/>
+            <key name="media-preloader">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/></key>
+            <key name="select-header-page"/>
+            <key name="header_type"/>
+            <key name="media-logo">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/></key>
+            <key name="logo_img_width"/>
+            <key name="logo_padding">
+                <key name="units"/>
+                <key name="padding-top"/>
+                <key name="padding-right"/>
+                <key name="padding-bottom"/>
+                <key name="padding-left"/></key>
+            <key name="media_flash_sale">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/></key>
+            <key name="search_type"/>
+            <key name="search_in_options"/>
+            <key name="search_placeholder"/>
+            <key name="search_count_categories"/>
+            <key name="search_text_categories"/>
+            <key name="button_search"/>
+            <key name="button_search_text"/>
+            <key name="menu_after_login"/>
+            <key name="woo_wishlist_text"/>
+            <key name="footer_type"/>
+            <key name="copyright_text"/>
+            <key name="mobile-logo">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/></key>
+            <key name="logo_img_width_mobile"/>
+            <key name="logo_mobile_padding">
+                <key name="units"/>
+                <key name="padding-top"/>
+                <key name="padding-right"/>
+                <key name="padding-bottom"/>
+                <key name="padding-left"/></key>
+            <key name="mobile_footer_menu_order_page"/>
+            <key name="mobile_search_placeholder"/>
+            <key name="menu_mobile_title"/>
+            <key name="menu_mobile_third_select"/>
+            <key name="menu_social_slides">
+                <key name="0">
+                    <key name="title"/>
+                    <key name="url"/>
+                    <key name="sort"/>
+                    <key name="attachment_id"/>
+                    <key name="image"/>
+                    <key name="height"/>
+                    <key name="width"/>
+                    <key name="thumb"/></key>
+            </key>
+            <key name="menu_mobile_one_select"/>
+            <key name="menu_mobile_tab_one"/>
+            <key name="menu_mobile_tab_one_icon"/>
+            <key name="enable_menu_second"/>
+            <key name="menu_mobile_tab_scond"/>
+            <key name="menu_mobile_second_select"/>
+            <key name="menu_mobile_tab_second_icon"/>
+            <key name="mobile_product_number"/>
+            <key name="enable_custom_label_sale"/>
+            <key name="line_height_label_sale"/>
+            <key name="min_width_label_sale"/>
+            <key name="mobile_form_cart_style"/>
+            <key name="boby_bg">
+                <key name="background-color"/>
+                <key name="background-repeat"/>
+                <key name="background-size"/>
+                <key name="background-attachment"/>
+                <key name="background-position"/>
+                <key name="background-image"/>
+                <key name="media">
+                    <key name="id"/>
+                    <key name="height"/>
+                    <key name="width"/>
+                    <key name="thumbnail"/></key>
+            </key>
+            <key name="main_color"/>
+            <key name="main_color_second"/>
+            <key name="main_color_third"/>
+            <key name="show_typography"/>
+            <key name="font_source"/>
+            <key name="font_google_code"/>
+            <key name="main_font">
+                <key name="font-family"/>
+                <key name="font-options"/>
+                <key name="google"/>
+                <key name="subsets"/></key>
+            <key name="main_google_font_face"/>
+            <key name="main_custom_font_face"/>
+            <key name="secondary_font">
+                <key name="font-family"/>
+                <key name="font-options"/>
+                <key name="google"/>
+                <key name="subsets"/></key>
+            <key name="secondary_google_font_face"/>
+            <key name="secondary_custom_font_face"/>
+            <key name="header_bg"/>
+            <key name="header_text_color"/>
+            <key name="header_link_color"/>
+            <key name="header_link_color_active"/>
+            <key name="topbar_bg"/>
+            <key name="topbar_text_color"/>
+            <key name="topbar_link_color"/>
+            <key name="topbar_link_color_hover"/>
+            <key name="main_menu_bg"/>
+            <key name="main_menu_link_color"/>
+            <key name="main_menu_link_color_active"/>
+            <key name="footer_bg"/>
+            <key name="footer_heading_color"/>
+            <key name="footer_text_color"/>
+            <key name="footer_link_color"/>
+            <key name="footer_link_color_hover"/>
+            <key name="copyright_bg"/>
+            <key name="copyright_text_color"/>
+            <key name="copyright_link_color"/>
+            <key name="copyright_link_color_hover"/>
+            <key name="sale_tags"/>
+            <key name="sale_tag_custom"/>
+            <key name="enable_label_featured"/>
+            <key name="custom_label_featured"/>
+            <key name="variation_swatch"/>
+            <key name="woo_mini_cart_text"/>
+            <key name="product_breadcrumb_layout"/>
+            <key name="woo_breadcrumb_color"/>
+            <key name="woo_breadcrumb_image">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/></key>
+            <key name="product_archive_layout"/>
+            <key name="product_archive_sidebar"/>
+            <key name="product_display_mode"/>
+            <key name="number_products_per_page"/>
+            <key name="product_columns"/>
+            <key name="product_pagination_style"/>
+            <key name="product_single_layout"/>
+            <key name="product_single_sidebar_position"/>
+            <key name="product_single_sidebar"/>
+            <key name="product_single_sidebar_normal"/>
+            <key name="redirect_buy_now"/>
+            <key name="style_single_tabs_style"/>
+            <key name="custom_tab_type"/>
+            <key name="size_guide_title"/>
+            <key name="size_guide_icon"/>
+            <key name="product_nav_display_mode"/>
+            <key name="html_before_add_to_cart_btn"/>
+            <key name="html_after_add_to_cart_btn"/>
+            <key name="title_recentview"/>
+            <key name="recentview_icon"/>
+            <key name="max_products_recentview"/>
+            <key name="empty_text_recentview"/>
+            <key name="recentview_viewall_text"/>
+            <key name="recentview_select_pages"/>
+            <key name="blog_breadcrumb_layout"/>
+            <key name="blog_breadcrumb_color"/>
+            <key name="blog_breadcrumb_image">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/></key>
+            <key name="blog_archive_layout"/>
+            <key name="blog_archive_sidebar"/>
+            <key name="blog_columns"/>
+            <key name="text_readmore"/>
+            <key name="blog_single_layout"/>
+            <key name="blog_single_sidebar"/></key>
+    </admin-texts>
+    <elementor-widgets>
+        <widget name="tbay-video">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Video URL" editor_type="LINE">video_url</field>
+            </fields>
+        </widget>
+        <widget name="tbay-custom-menu">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+            </fields>
+        </widget>
+        <widget name="tbay-heading">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Description" editor_type="AREA">heading_description</field>
+            </fields>
+        </widget>
+        <widget name="tbay-features">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="features">
+                <field type="Features: Title" editor_type="LINE">feature_title</field>
+                <field type="Features: Description" editor_type="AREA">feature_desc</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-brands">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="brands">
+                <field type="Link to" editor_type="LINK" key_of="link">brand_link</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-posts-grid">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+        <widget name="tbay-our-team">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="our_team">
+                <field type="Our Team: Name" editor_type="LINE">our_team_name</field>
+                <field type="Our Team: Job" editor_type="LINE">our_team_job</field>
+                <field type="Our Team: FaceBook Link" editor_type="LINK" key_of="link">our_team_link_fb</field>
+                <field type="Our Team: Twitter Link" editor_type="LINK" key_of="link">our_team_link_tw</field>
+                <field type="Our Team: Goole Plus Link" editor_type="LINK" key_of="link">our_team_link_gg</field>
+                <field type="Our Team: Linkin Link" editor_type="LINK" key_of="link">our_team_link_linkin</field>
+                <field type="Our Team: Instagram Link" editor_type="LINK" key_of="link">our_team_link_instaram</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-testimonials">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="testimonials">
+                <field type="Testimonials Items: Name" editor_type="LINE">testimonial_name</field>
+                <field type="Testimonials Items: Job" editor_type="LINE">our_team_job</field>
+                <field type="Testimonials Items: Excerpt" editor_type="AREA">testimonial_excerpt</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-social-icons">
+            <fields>
+                <field type="Recently Viewed: Title" editor_type="LINE">header_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="social_icon_list">
+                <field type="Social Icons: Link" editor_type="LINK" key_of="link">link</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-newsletter">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+        <widget name="tbay-search-form">
+            <fields>
+                <field type="Placeholder Text" editor_type="LINE">placeholder_text</field>
+                <field type="Text Validate Input Search" editor_type="LINE">vali_input_search</field>
+                <field type="Button Search Text" editor_type="LINE">text_button_search</field>
+                <field type="Search in Categories Text" editor_type="LINE">text_categories_search</field>
+            </fields>
+        </widget>
+        <widget name="tbay-mini-cart">
+            <fields>
+                <field type="Mini-Cart Title" editor_type="LINE">title_mini_cart</field>
+            </fields>
+        </widget>
+        <widget name="tbay-header-flash-sales">
+            <fields>
+                <field type="Text" editor_type="LINE">header_text</field>
+            </fields>
+        </widget>
+        <widget name="tbay-header-recently-viewed">
+            <fields>
+                <field type="Recently Viewed: Title" editor_type="LINE">header_title</field>
+                <field type="Recently Viewed: Empty Result - Custom Paragraph" editor_type="AREA">empty</field>
+            </fields>
+        </widget>
+        <widget name="tbay-wishlist">
+            <fields>
+                <field type="Title" editor_type="LINE">title_wishlist</field>
+            </fields>
+        </widget>
+        <widget name="tbay-compare">
+            <fields>
+                <field type="Title" editor_type="LINE">title_compare</field>
+            </fields>
+        </widget>
+        <widget name="tbay-products">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text Button" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+        <widget name="tbay-product-category">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+        <widget name="tbay-product-tabs">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="list_product_tabs">
+                <field type="Tab Item: Title" editor_type="LINE">product_tabs_title</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-product-categories-tabs">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text Button" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+        <widget name="tbay-list-categories-product">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text Button" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+        <widget name="tbay-custom-image-list-categories">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text Button" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+        <widget name="tbay-product-count-down">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Title Date" editor_type="LINE">countdown_title</field>
+            </fields>
+        </widget>
+        <widget name="tbay-custom-image-list-tags">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text Button" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+        <widget name="tbay-product-recently-viewed">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Empty Result - Custom Paragraph" editor_type="AREA">empty</field>
+            </fields>
+        </widget>
+        <widget name="tbay-product-flash-sales">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Title Date" editor_type="LINE">date_title</field>
+                <field type="Title deal ended" editor_type="LINE">date_title_ended</field>
+                <field type="Custom Text Link" editor_type="LINE">readmore_text</field>
+                <field type="Custom Link" editor_type="LINK" key_of="link">readmore_link</field>
+            </fields>
+        </widget>
+        <widget name="tbay-categories-tabs-with-banner">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="categories">
+                <field type="Categories: External link" editor_type="LINE">link</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-top-notification">
+            <fields-in-item items_of="notifications">
+                <field type="Item: Description" editor_type="VISUAL">description</field>
+            </fields-in-item>
+        </widget>
+        <widget name="tbay-products-banner-menu">
+            <fields>
+                <field type="Title" editor_type="LINE">heading_title</field>
+                <field type="Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Custom Link" editor_type="LINK" key_of="link">banner_link</field>
+            </fields>
+        </widget>
+    </elementor-widgets>
+<shortcode-list>tbay_title_heading, tbay_gridposts, tbay_brands, tbay_socials_link, tbay_newsletter, tbay_video, tbay_testimonials, tbay_ourteam, tbay_features, tbay_banner, tbay_custom_menu, tbay_products,tbay_productstabs, tbay_categoriestabs, tbay_product_flash_sales, tbay_productcategory, tbay_list_categories, tbay_custom_image_list_tags, tbay_woocommerce_tag, tbay_product_recently_viewed</shortcode-list>
+  <shortcodes>
+    <shortcode>
+      <tag>tbay_title_heading</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+          <attribute>descript</attribute>
+          <attribute>textbutton</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_gridposts</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_brands</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_socials_link</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+          <attribute>description</attribute>
+          <attribute>facebook_url</attribute>
+          <attribute>twitter_url</attribute>
+          <attribute>youtube-play_url</attribute>
+          <attribute>instagram_url</attribute>
+          <attribute>pinterest_url</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_newsletter</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+          <attribute>description</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_video</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_testimonials</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_ourteam</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_features</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_banner</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+          <attribute>description</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_custom_menu</tag>
+      <attributes>
+          <attribute>title</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_products</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+          <attribute>textbutton</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_productstabs</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute> 
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_categoriestabs</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute> 
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_product_countdown</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute> 
+          <attribute>countdown_title</attribute> 
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_product_flash_sales</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute> 
+          <attribute>date_title</attribute> 
+          <attribute>date_title_ended</attribute> 
+          <attribute>end_date</attribute> 
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_productcategory</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute> 
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_list_categories</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute> 
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_custom_image_list_tags</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute> 
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_woocommerce_tag</tag>
+      <attributes>
+          <attribute>title</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>tbay_product_recently_viewed</tag>
+      <attributes>
+          <attribute>title</attribute>
+          <attribute>subtitle</attribute>
+      </attributes>
+    </shortcode>
+  </shortcodes>
+</wpml-config>

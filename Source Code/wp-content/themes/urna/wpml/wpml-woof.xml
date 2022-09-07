@@ -1,0 +1,24 @@
+<wpml-config>
+  <admin-texts>
+    <key name="woof_settings">         
+        <key name="by_price">
+            <key name="title_text"/>
+        </key> 
+        <key name="custom_tax_label">
+            <key name="product_cat"/>
+            <key name="pa_size"/>
+            <key name="pa_color"/>
+            <key name="product_visibility"/>
+            <key name="product_tag"/>
+            <key name="yith_product_brand"/>
+            <key name="translation_priority"/></key>
+        <key name="color">
+            <key name="pa_color">
+            <key name="black"/>
+            <key name="blue"/>
+            <key name="brown"/>
+            <key name="green"/></key>
+        </key>
+    </key>
+  </admin-texts>
+</wpml-config>
